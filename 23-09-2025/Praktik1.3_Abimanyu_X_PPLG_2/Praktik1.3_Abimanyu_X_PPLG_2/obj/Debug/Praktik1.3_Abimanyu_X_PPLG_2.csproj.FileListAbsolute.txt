@@ -1,0 +1,8 @@
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\bin\Debug\Praktik1.3_Abimanyu_X_PPLG_2.exe.config
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\bin\Debug\Praktik1.3_Abimanyu_X_PPLG_2.exe
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\bin\Debug\Praktik1.3_Abimanyu_X_PPLG_2.pdb
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\obj\Debug\Praktik1.3_Abimanyu_X_PPLG_2.csproj.AssemblyReference.cache
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\obj\Debug\Praktik1.3_Abimanyu_X_PPLG_2.csproj.CoreCompileInputs.cache
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\obj\Debug\Praktik1.3_Abimanyu_X_PPLG_2.exe
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\obj\Debug\Praktik1.3_Abimanyu_X_PPLG_2.pdb
+D:\ABIMANYU - X PPLG 2\23-09-2025\Praktik1.3_Abimanyu_X_PPLG_2\Praktik1.3_Abimanyu_X_PPLG_2\obj\Debug\Praktik1.3_Abimanyu_X_PPLG_2.exe.config
