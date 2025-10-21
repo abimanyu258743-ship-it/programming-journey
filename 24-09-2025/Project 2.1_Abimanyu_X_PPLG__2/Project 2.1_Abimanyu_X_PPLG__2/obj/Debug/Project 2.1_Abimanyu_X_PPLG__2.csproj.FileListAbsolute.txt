@@ -1,0 +1,8 @@
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\obj\Debug\Project 2.1_Abimanyu_X_PPLG__2.csproj.AssemblyReference.cache
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\obj\Debug\Project 2.1_Abimanyu_X_PPLG__2.csproj.CoreCompileInputs.cache
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\bin\Debug\Project 2.1_Abimanyu_X_PPLG__2.exe.config
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\bin\Debug\Project 2.1_Abimanyu_X_PPLG__2.exe
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\bin\Debug\Project 2.1_Abimanyu_X_PPLG__2.pdb
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\obj\Debug\Project 2.1_Abimanyu_X_PPLG__2.exe
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\obj\Debug\Project 2.1_Abimanyu_X_PPLG__2.pdb
+D:\ABIMANYU - X PPLG 2\24-09-2025\Project 2.1_Abimanyu_X_PPLG__2\Project 2.1_Abimanyu_X_PPLG__2\obj\Debug\Project 2.1_Abimanyu_X_PPLG__2.exe.config
