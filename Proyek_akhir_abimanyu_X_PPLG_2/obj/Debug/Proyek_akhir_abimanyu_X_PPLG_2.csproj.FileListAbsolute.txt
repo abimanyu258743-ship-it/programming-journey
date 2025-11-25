@@ -1,0 +1,11 @@
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\bin\Debug\Proyek_akhir_abimanyu_X_PPLG_2.exe.config
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\bin\Debug\Proyek_akhir_abimanyu_X_PPLG_2.exe
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\bin\Debug\Proyek_akhir_abimanyu_X_PPLG_2.pdb
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.csproj.AssemblyReference.cache
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.Form1.resources
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.Properties.Resources.resources
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.csproj.GenerateResource.cache
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.csproj.CoreCompileInputs.cache
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.exe
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.pdb
+D:\Abimanyu\Proyek_akhir_abimanyu_X_PPLG_2\obj\Debug\Proyek_akhir_abimanyu_X_PPLG_2.exe.config
