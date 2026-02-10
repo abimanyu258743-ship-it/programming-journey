@@ -1,0 +1,40 @@
+.p1 {
+    font-size: 50px;
+    font-size: 3em;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .p2 {
+    font-size: 40px;
+    font-size: 4em;
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .p3 {
+    font-size: 60px;
+    font-size: 1em;
+    font-size: 1rem;
+    font-weight: bolder;
+    font-style: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .p4 {
+    font-size: 70px;
+    font-size: 2em;
+    font-size: 3rem;
+    font-weight: lighter;
+    font-style: initial;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .p5 {
+    font-size: 100px;
+    font-size: 1em;
+    font-size: 2rem;
+    font-weight: normal;
+    font-style: unset;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  }
