@@ -1,0 +1,19 @@
+.judul {
+  font-size: 40px;
+}
+.paragraf {
+  font-size: 20pt;
+}
+.box1 {
+  width: 4cm;
+  height: 8cm;
+  background-color: aquamarine;
+  margin-bottom: 10px;
+  border: 5px solid rgb(0, 255, 42);
+}
+.box2 {
+  width: 20%;
+  background-color: bisque;
+  padding: 20px;
+  border: 5px solid rgb(210, 207, 60);
+}
