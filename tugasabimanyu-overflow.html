@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tugas Overflow</title>
+  <style>
+    body {
+      font-family: 'Times New Roman', Times, serif;
+      margin: 20px;
+    }
+    .header {
+      background-color: blueviolet;
+      padding: 10px;
+      text-align: center;
+    }
+    h1 {
+      text-align: center;
+    }
+    .nav a{
+      display: inline-block;
+      background-color: black;
+      padding: 10px 15px;
+      margin: 5px;
+      text-decoration: none;
+      color: azure;
+    }
+     
+    article{
+      width: 200px;
+      height: 100px;
+      border: 1px solid black;
+      margin: 10px;
+      padding: 10px;
+    }
+    .flexbox {
+      display: flex;
+      flex-direction: row;
+    }
+    .visible {
+      overflow: visible;
+      background-color: aqua;
+    }
+    .hidden {
+      overflow: hidden;
+      background-color: rgb(244, 78, 222)
+    }
+    .scroll {
+      overflow: scroll;
+      background-color: burlywood;
+    }
+    .auto {
+      overflow: auto;
+      background-color: rgb(37, 214, 155);
+    }
+  </style>
+</head>
+<body>
+  <header>
+  <h1>Article Text</h1>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+    <a href="#">Product</a>
+  </nav>
+
+  <h2>PRODUK KAMI</h2>
+  <div class="flexbox">
+  <article class="visible">Pendidikan adalah fondasi utama dalam membangun
+     peradaban bangsa yang cerdas dan berkarakter. Melalui pendidikan yang berkualitas, 
+     generasi muda dapat mengembangkan potensi diri, keterampilan, dan pemikiran kritis. 
+     Hal ini sangat penting untuk menghadapi tantangan global yang semakin kompleks. 
+     Investasi pada pendidikan akan melahirkan pemimpin masa depan yang inovatif dan berintegritas.
+  </article>
+
+  <article class="hidden">Teknologi digital telah mengubah cara manusia berinteraksi, bekerja, dan menjalani kehidupan
+     sehari-hari secara signifikan. Inovasi seperti kecerdasan buatan dan internet cepat memungkinkan 
+     efisiensi tinggi dalam berbagai sektor industri. Namun, pemanfaatan teknologi harus diiringi dengan
+     literasi digital yang baik agar terhindar dari dampak negatif seperti penyebaran informasi palsu.
+  </article>
+ 
+   <article class="scroll">Menjaga kesehatan fisik dan mental merupakan kunci utama untuk mencapai produktivitas maksimal 
+    dalam kehidupan sehari-hari. Pola makan seimbang, olahraga teratur, dan istirahat cukup membantu 
+    meningkatkan sistem imun dan energi tubuh. Selain itu, kesehatan mental yang baik memungkinkan seseorang 
+    mengelola stres dengan lebih efektif dan tetap fokus mencapai tujuan. 
+   </article>
+
+  <article class="auto">Pentingnya menjaga kelestarian lingkungan hidup tidak dapat diabaikan untuk keberlangsungan generasi masa depan. 
+    Langkah kecil seperti mengurangi penggunaan plastik, menanam pohon, dan menghemat energi memberikan dampak besar. 
+    Kesadaran kolektif untuk merawat bumi sangat dibutuhkan agar sumber daya alam tetap terjaga dari kerusakan yang 
+    semakin parah saat ini.
+  </article>
+</div>
+</body>
+</html>
