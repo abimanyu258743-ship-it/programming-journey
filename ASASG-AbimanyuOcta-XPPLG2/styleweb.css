@@ -1,0 +1,120 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background: #f2f2f2;
+    text-align: center;
+    background-image: url(bb.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Judul */
+h1 {
+    background: rgb(175, 7, 7);
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    background: #333;
+    padding: 10px;
+   
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navbar a:hover {
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    padding: 25px;
+    flex-wrap: wrap;
+  
+}
+
+.card {
+    background: white;
+    width: 300px;
+    height: 550px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    padding: 15px;
+    transition: 0.3s;
+   
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card h3 {
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 14px;
+}
+.price {
+    font-size: 20px; 
+    font-weight: 700; 
+    color: #22c55e; 
+}
+.price span {
+    font-size: 12px; 
+    color: #555; 
+    font-weight: 400; 
+}
+.btn-beli {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 150px;
+    justify-content: left;
+    display: block;
+    margin: 0 auto;
+    gap: 6px;
+    font-size: 17px;
+}
+a {
+    color: white;
+}
+.btn-beli:hover {
+    background-color: orange;
+    transform: scale(1,1);
+}
+
+.btn-beli:active {
+    background-color: red;
+}
+footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: auto;
+}
+footer p {
+    font-size: 0.9rem;
+}

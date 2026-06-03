@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+
+    <form onsubmit="login()">
+        <div class="login-box">
+            <h2>MASUK</h2>
+
+            <!-- Form Login -->
+            <div class="form-group">
+                <label for="email">EMAIL</label>
+                <input type="email" id="email" name="email" placeholder="Masukkan email kamu" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">PASSWORD</label>
+                <input type="password" id="password" name="password" placeholder="Masukkan password kamu" required>
+            </div>
+
+            <button class="btn-login" onclick="login()">LOGIN</button>
+    </form>
+    </form>
+
+    <!-- Link tambahan -->
+    <div class="extra-links">
+        Belum punya akun? <a href="#">Daftar di sini</a>
+    </div>
+    </div>
+
+    <script>
+        function login() {
+            window.location.href = './home.html'
+        }
+    </script>
+
+
+</body>
+
+</html>

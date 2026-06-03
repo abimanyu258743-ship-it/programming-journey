@@ -1,0 +1,108 @@
+/* Reset dasar */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-image: url(backgroundmerah.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+            /* Membuat form selalu di tengah layar */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        /* Kotak Login */
+        .login-box {
+            background: #141515;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 40px;
+            width: 100%;
+            max-width: 400px;
+            margin-right: 100px;
+        }
+
+        /* Judul Form */
+        .login-box h2 {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        /* Grup Input (Label + Kotak Input) */
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 12px;
+            font-weight: bold;
+            letter-spacing: 1px;
+            color: rgb(255, 255, 255);
+            margin-bottom: 8px;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 14px 16px;
+            background: #b8bbbe;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: white;
+            font-family: 'Inter', sans-serif;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        /* Saat kotak input diklik, border jadi hijau */
+        .form-group input:focus {
+            border-color: #c6f91f;
+        }
+
+        /* Tombol Login */
+        .btn-login {
+            width: 100%;
+            padding: 14px;
+            background: #c6f91f;
+            color: black;
+            font-family: 'Inter', sans-serif;
+            font-size: 14px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s;
+            margin-top: 10px;
+        }
+
+        .btn-login:hover {
+            background: #d4ff4a;
+        }
+
+        /* Link di bawah tombol */
+        .extra-links {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .extra-links a {
+            color: #c6f91f;
+            text-decoration: none;
+        }
+
+        .extra-links a:hover {
+            text-decoration: underline;
+        }
